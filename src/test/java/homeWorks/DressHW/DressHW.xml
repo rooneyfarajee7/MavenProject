@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "example suite 1">
+
+    <parameter name="BrowserUrl" value="http://automationpractice.com/index.php"/>
+
+    <test name = "Dress E2E Test">
+
+        <classes>
+            <class name = "homeWorks.DressHW.DressHW"/>
+        </classes>
+
+    </test>
+
+</suite>
