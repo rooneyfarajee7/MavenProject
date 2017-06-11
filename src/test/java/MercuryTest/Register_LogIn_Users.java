@@ -24,7 +24,7 @@ import static driverScript.AbsClass_MethodOverride.driver;
  */
 public class Register_LogIn_Users extends AbsClass_MethodOverride{
 
-    String abc;
+    String abcd;
     WebDriverWait wait;
 @Test
 public static void SignUp_LogIn () throws IOException, BiffException, InterruptedException, WriteException {
